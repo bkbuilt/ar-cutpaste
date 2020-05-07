@@ -9,7 +9,7 @@ DOC_OFFSET_Y = 130 * SCREEN_PIXELS_DENSITY
 DOC_WIDTH = 2121
 DOC_HEIGHT = 1280
 
-def paste(filename, name, x, y, password='123456'):
+def paste(filename, name, x, y, password='brent1225'):
     
     # There seem to be a bug on Windows where the path must be using unix separators.
     # https://github.com/cyrildiagne/ar-cutpaste/issues/5
